@@ -1,4 +1,4 @@
-package truetype
+package harfbuzz
 
 import "embed"
 
